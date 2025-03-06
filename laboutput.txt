@@ -1,1 +1,0 @@
-python3: can't open file '/home/amohamed176/ops445/lab6/OPS445-lab6/./CheckLab3.py': [Errno 2] No such file or directory
