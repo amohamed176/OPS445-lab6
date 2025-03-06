@@ -31,3 +31,14 @@ test_h_displayCourses (__main__.lab6a.test_h_displayCourses)
 Ran 14 tests in 0.051s
 
 OK
+
+PS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: amohamed176
+    Linux system name: amohamed176
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/amohamed176/ops445/lab6/amohamed176/lab6
+    Start at: Thur Mar 6 15:20:45 2025
+=================================================================
